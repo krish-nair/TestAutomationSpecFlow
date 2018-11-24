@@ -1,0 +1,3 @@
+E:\myProjects\TestAutomationSpecFlow\SpecFlowIntro\SpecFlowIntro\obj\Debug\SpecFlowIntro.csprojAssemblyReference.cache
+E:\myProjects\TestAutomationSpecFlow\SpecFlowIntro\SpecFlowIntro\obj\Debug\SpecFlowIntro.exe.config
+E:\myProjects\TestAutomationSpecFlow\SpecFlowIntro\SpecFlowIntro\obj\Debug\SpecFlowIntro.csproj.CoreCompileInputs.cache
